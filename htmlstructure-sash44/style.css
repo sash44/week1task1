@@ -1,0 +1,17 @@
+body{
+    color:#f3f04e;
+    background-color:#8d7c96;
+}
+#larger {
+    font-size: 50px;
+}
+label{
+    font-size: 20px;  
+}
+h1{
+    font-size: 80px;
+}
+a{
+    font-size: 20px;
+    color: #f3f04e;
+}
